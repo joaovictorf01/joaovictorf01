@@ -1,5 +1,6 @@
-Olá, sou João victor, tenho 24 anos .
-atualmente trabalhando com Java/spring. desenvolvimento de apis web.
+Olá, sou João victor, tenho 26 anos .
+atualmente trabalhando com Java/spring. desenvolvimento de apis web, banco de dados e computação em núvem.
+
 
 experiência em testes de acessibilidade .
 para mais informações
